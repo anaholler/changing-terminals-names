@@ -1,5 +1,11 @@
 # changing-terminals-names
 
+[20:38, 12/09/2022] Unb Yan: strifractorrr
+[20:41, 12/09/2022] Unb Anderson: ahh
+[20:41, 12/09/2022] Unb Anderson: os pacotes
+[20:41, 12/09/2022] Unb Anderson: require(phytools)
+require(ape)
+
 #arvore filogenética
 treefull<-read.tree("EXEMPLOARVOREFILOGENETICA.tre")
 treefull
